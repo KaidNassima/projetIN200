@@ -1,0 +1,1 @@
+print ("Bonjour, ceci est un jeu !")
